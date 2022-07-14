@@ -1,3 +1,16 @@
+@font-face {
+    font-family: "HaloHandletter";
+    src: url("fonts/HaloHandletter.eot");
+    src: url("fonts/HaloHandletter.eot?#iefix") format("embedded-opentype"),
+        url("fonts/HaloHandletter.woff2") format("woff2"),
+        url("fonts/HaloHandletter.woff") format("woff"),
+        url("fonts/HaloHandletter.ttf") format("truetype"),
+        url("fonts/HaloHandletter.svg#HaloHandletter") format("svg");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
 body{
   margin: 0;
   text-align: center;

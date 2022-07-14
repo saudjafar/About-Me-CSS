@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: "HaloHandletter";
     src: url("fonts/HaloHandletter.eot");
     src: url("fonts/HaloHandletter.eot?#iefix") format("embedded-opentype"),
@@ -10,7 +10,7 @@
     font-style: normal;
     font-display: swap;
 }
-
+ */
 body{
   margin: 0;
   text-align: center;
